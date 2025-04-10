@@ -59,9 +59,11 @@
 ---
 
 📫 **Connect with Me**
-- Email: shaansharma417@gmail.com*
-- GitHub: [shaansharma3](https://github.com/shaansharma3)
--Linkedin: https://in.linkedin.com/in/shaansharma2772
+
+- Email: [shaansharma417@gmail.com](mailto:shaansharma417@gmail.com)  
+- GitHub: [shaansharma3](https://github.com/shaansharma3)  
+- LinkedIn: [linkedin.com/in/shaansharma2772](https://in.linkedin.com/in/shaansharma2772)
+
 ---
 
 _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
